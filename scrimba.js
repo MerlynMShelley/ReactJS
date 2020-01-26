@@ -4,7 +4,7 @@ import ReactDOM from "ReactDOM"
 function MyInfo(){
 	return(
 			<div>
-			<h1>Merly M Shelley</h1>
+			<h1>Merlyn M Shelley</h1>
 			<p>I am a Tech Enthusiast!!</p>
 			<ul>
 				<li>New York</li>
